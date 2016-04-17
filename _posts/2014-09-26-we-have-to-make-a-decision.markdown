@@ -7,7 +7,7 @@ categories: politics, economics, prosperity
 featured: true
 ---
 
-####A question that needs to be answered
+#### A question that needs to be answered
 
 There comes a time when it is appropriate to ask yourself what sort of country do want to live in? Is it a country where everyone gets the same opportunity to succeed no matter what? Or is it a country where, your chance of success depends on to whom, and where you were born?  The United States seems to be trending more and more toward the latter (hyperlink to social mobility stats).  The Powerful in our society have been consolidating their power in a myriad of ways for the past 30 or so years—this is very unhealthy for democracy, and our nation as a whole.
 

@@ -6,19 +6,19 @@ author: Jason
 categories: history, economics
 featured: true
 ---
-####What does that even mean?
+#### What does that even mean?
 
 There is a phrase that is pretty widespread in our lexicon, which we utter without really thinking about. That phrase is—‘Earning a Living’.  Where did it come from?  What parameters for society does it lay out? To whom are we to earn our right to live from? And why? Who made them high and mighty? Is this a societal unwritten rule?
 
-###Who has time to Contemplate?
+### Who has time to Contemplate?
 I don’t think many people give it much thought. Literally I guess it means to make enough money to be able to afford the things to allow you to live. I take it as: ‘Even though you had no say in being given life…you now have to prove your worth.’ To me that already sets up a class dichotomy. That phrase is usually targeted to the middle and lower classes of society. The rich seem to get a pass since they’re rich, they are earning or have earned a living.
 
 It seems here in the U.S. we make life harder than it has to be for the majority of the population (while making it even easier for wealthy elite). Why do we do that? For starters the wealthy make the rules (but that is another issue). Why do we put up with it?  Why do we buy into this mantra?
 
-###For some…it’s hard to ‘earn’ a living.
+### For some…it’s hard to ‘earn’ a living.
 This isn’t the pioneering days, when farming was tricky and everything was that much more difficult. We live in a time of plenty, with manufactured scarcity. Sure, the weather still can ruin agriculture, but here in the West, famine is hardly a concern. People still go hungry…way too many in the richest nation in history… but most of those are caused by market forces…of which they have minimal control. Lots of people don’t have access to quality education, healthcare, or a job for that matter, so how could they ‘earn’ a living?
 
-###FDR’s Second Bill of Rights  
+### FDR’s Second Bill of Rights  
 We should really seek out, and aspire to the principles established by FDR in his State of the Union address of January 11, 1944.  These are known as his Economic Bill of Rights. In this address, he says the following:
 
 “It is our duty now to begin to lay the plans and determine the strategy for the winning of a lasting peace and the establishment of an American standard of living higher than ever before known.
@@ -51,5 +51,5 @@ All of these rights spell security. And after this war is won we must be prepare
 
 America's own rightful place in the world depends in large part upon how fully these and similar rights have been carried into practice for all our citizens. For unless there is security here at home there cannot be lasting peace in the world.”
 
-###We need radical ideas to push us forward
+### We need radical ideas to push us forward
 We need to realize that we all do better when we all do better. We need to recognize what our brand of capitalism has become—a form of [neo-feudalism](http://www.huffingtonpost.com/news/neo-feudalism/). We need to use the tools given to us (mainly Government) to wrestle power back from the few…to the many. The sooner we stop bickering over other things, and realize they are distractions to the economic plunder that has transpired over the last 40 years, the better.
