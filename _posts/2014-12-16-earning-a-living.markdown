@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Earning a Living"
+subtitle: "What does that even mean?"
 date: 2014-12-16
 author: Jason
 categories: history, economics
 featured: true
 ---
-#### What does that even mean?
 
 There is a phrase that is pretty widespread in our lexicon, which we utter without really thinking about. That phrase is—‘Earning a Living’.  Where did it come from?  What parameters for society does it lay out? To whom are we to earn our right to live from? And why? Who made them high and mighty? Is this a societal unwritten rule?
 

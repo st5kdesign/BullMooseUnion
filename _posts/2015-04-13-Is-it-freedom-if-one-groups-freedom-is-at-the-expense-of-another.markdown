@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Is it ‘Freedom’ if one groups freedom is at the expense of another?"
+subtitle: "Religious Freedom or Privilege in Indiana"
 date: 2015-04-13
 author: Jason
 categories: politics, Religious Freedom
 featured: true
 ---
-#### Religious Freedom or Privilege in Indiana
+
 Unless you’ve been living in a cave the last couple weeks, you probably are familiar with all the shenanigans happening in Indiana and their _“Restoring Religious Freedom Act”_. I am always skeptical of this kind of legislation mostly because of the name—it seems these kinds of laws are really about privilege, and not freedom per se. These laws make me wonder if ‘Religious Freedom’ is under attack in Indiana, or the country for that matter? My gut says no (I am sure Fundamentalist Christians would disagree) and I am guessing in these cases it is more a response to eroding privilege than encroaching persecution.
 
 ### Excerpts from the Law

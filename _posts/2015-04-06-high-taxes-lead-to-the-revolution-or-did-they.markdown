@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "High Taxes lead to the Revolution—or did they?"
+subtitle: "A little misunderstanding among friends"
 date: 2015-04-06
 author: Jason
 categories: history, economics, propaganda
 featured: true
 ---
-#### A little misunderstanding among friends
 It’s April, the sun is warming, the flowers are blooming, and everyone is looking forward to receiving back their tax returns. The common narrative today as repeated over and over mostly by Conservatives, is that taxes are bad, a form of theft, too high, too complicated and an enabler of fiscal irresponsibility on the part of the federal government.
 
 __Boo__ taxes!

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "The Speech that Launched the Great Society"
+subtitle: "Lyndon Johnson Described His Vision of a Great Society"
 date: 2015-01-09
 author: Matthew Dallek, George Washington University
 categories: politics, economics, propaganda
 featured: true
 ---
-
-#### Lyndon Johnson Described His Vision of a Great Society
 
 In May 1964, Lyndon Johnson described his vision of a great society in a commencement address delivered to the University of Michigan. The audience could not have been more receptive to his message. Speaking to a university where President John F. Kennedy had announced the Peace Corps and which had supplied some of the leaders of the activist group, [Students for a Democratic Society](http://www.sds-1960s.org/), Johnson called out to the audience a series of questions, each one eliciting vocal waves of affirmative answers from the graduating class.
 

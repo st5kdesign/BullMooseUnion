@@ -1,15 +1,13 @@
 ---
 layout: post
 title: "The Paradox of Charity"
+subtitle: "The Need for Charity is a Symptom"
 date: 2015-03-03
 author: Jason
 categories: politics, economics, propaganda
 featured: true
 ---
-#### The Need for Charity is a Symptom
-
 ### The Season of Giving, or ignoring
-
 We just came out of the Holiday season—a season of Charity if you will. Everyone is filled with the spirit of giving during that time period and charitable organizations are ever present (think The Salvation Army).  Drop some change in the bucket to help those in need and maybe feel a little better. How could this be harmful?  You get satisfaction in helping your fellow man and those in need get some help during this time period—Everyone wins.
 
 ### The Perpetuation of a Deficient System

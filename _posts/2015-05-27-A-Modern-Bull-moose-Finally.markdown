@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "A Modern Bull Moose—Finally"
+subtitle: "Bernie Sanders is running for President…as a Unapologetic Populist"
 date: 2015-05-27
 author: Bernie Sanders
 categories: politics
 featured: true
 ---
-#### Bernie Sanders is running for President…as a Unapologetic Populist
-
 ### Income and Wealth Inequality
 Today, we live in the wealthiest nation in the history of the world but that reality means very little for most of us because almost all of that wealth is owned and controlled by a tiny handful of individuals. In America we now have more income and wealth inequality than any other major country on earth, and the gap between the very rich and everyone is wider than at any time since the 1920s. The issue of wealth and income inequality is the great moral issue of our time, it is the great economic issue of our time and it is the great political issue of our time. And we will address it.
 

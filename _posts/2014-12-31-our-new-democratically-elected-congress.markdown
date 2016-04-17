@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Our New 'Democratically' Elected Congress"
+subtitle: "Is This the Government We Deserve?"
 date: 2014-12-31
 author: Jason
 categories: politics, government, history
 featured: true
 ---
-
 In January, a new Congress will be sworn in—elected by 15%-18% of the electorate. The 2014 midterms were the worst turnout in [72 years](http://www.nytimes.com/2014/11/12/opinion/the-worst-voter-turnout-in-72-years.html?_r=0) at 36.2%. In 43 states less than half of the eligible population voted.
 
-###Mo Money, Mo Problems
+### Mo Money, Mo Problems
 Though over $500 million was spent this past fall—we still didn’t bother to go and vote. This made 2014 the second most expensive election in history, behind 2012’s Presidential Election. Both parties played the money game this time, but the Republican’s still had a slight advantage. The [2010 Citizen’s United](http://en.wikipedia.org/wiki/Citizens_United_v._Federal_Election_Commission2010) SCOTUS decision has made a mockery of our so-called democracy. Add in the [McCutcheon v FCC]( http://en.wikipedia.org/wiki/McCutcheon_v._Federal_Election_Commission) from this past spring and things aren’t looking good for ‘We the People’.
 
 ### How we Stack up

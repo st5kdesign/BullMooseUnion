@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Debt and Debt Ceiling is Bullshit"
+subtitle: "The Biggest CON Perpetrated on Us All"
 date: 2015-11-02
 author: Jason
 categories: politics, economics, propoganda
 featured: true
 ---
-#### The Biggest CON Perpetrated on Us All.
 
 >“It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning.”—Henry Ford
 

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "The Debt and Debt Ceiling is Bullshit"
+subtitle: "This Analogy Misguides and Misinforms"
 date: 2015-11-02
 author: Warwick Smith, University of Melbourne
 categories: politics, economics, propaganda
 featured: true
 ---
-#### This Analogy Misguides and Misinforms
-
 Treasurer Joe Hockey is experiencing difficult times. Deteriorating terms of trade and an uncooperative senate mean that he cannot deliver the surplus when he said he would and he cannot continue to cut government expenditure without risking a recession.
 
 I have some comforting news for Joe Hockey: the importance of the whole deficit/surplus thing has been greatly exaggerated – with a lot of help from Joe himself of course. The focus on deficits and surpluses distracts us from what’s really important in the macro economy.

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Bullshit is Everywhere"
+subtitle: "Jon Stewart’s parting thought from his final Daily Show"
 date: 2015-08-13
 author: Jon Stewart
 categories: politics, propoganda
 featured: true
 ---
 
-#### Jon Stewart’s parting thought from his final Daily Show
 On August 6, 2015 Jon Stewart ended his 17-year run as the host of Daily Show. After all the hoopla and cameos—he left us with a sobering, and needed, call to arms (which is below). Thank you Jon Stewart for your insight and guidance through the sea of bullshit we are constantly bombarded with.
 
 ### Bullshit is everywhere
