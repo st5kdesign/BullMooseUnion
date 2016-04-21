@@ -2,14 +2,16 @@
 html {height: 100%;}
 
 .site {
- height: 100%;
+ width: 100%;
  display: flex;
  flex-direction: column;
+ justify-content: center;
 }
 
 /* Header Index page */
 
 .site-header {
+ display: block;
  height: 100px;
  width: 100%;
  border-top: solid 10px $dark-gray;
@@ -17,10 +19,23 @@ html {height: 100%;}
 
 .page-content {
   width: 1600px;
+  display: flex;
 }
 
-.left-panel {
+/* nav module */
+
+.nav-module {
   width: 120px;
-  min-height: 90%;
+  height: 600px;
   background-color: $light-gray;
+}
+
+.logo {
+  width: 100%;
+  height: 100%;
+}
+
+.post-list {
+  width: 900px;
+  height: 100%;
 }

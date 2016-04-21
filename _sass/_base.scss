@@ -47,6 +47,11 @@ p {
   text-transform: uppercase;
 }
 
+li {
+  list-style-type: none;
+  height: 100%;
+}
+
 
 h1 {
   font-family: $serif-font;
@@ -82,6 +87,16 @@ h3 {
   color:$dark-gray;
 }
 
+h4 {
+  font-family: $serif-font;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 32px;
+  margin-bottom: 0px;
+  color:$dark-gray;
+}
+
 .post-subtitle {
   font-family: $sans-serif-font;
   font-weight: 300;
@@ -91,16 +106,6 @@ h3 {
   text-transform: uppercase;
   letter-spacing: 1px;
   color: $blue;
-}
-
-h4 {
-  font-family: $serif-font;
-  font-weight: 600;
-  font-size: 20px;
-  line-height: 32px;
-  margin-top: 32px;
-  margin-bottom: 0px;
-  color:$dark-gray;
 }
 
 h5 {
@@ -113,11 +118,6 @@ h5 {
   color:$dark-gray;
 }
 
-p, ul, ol, pre, table {
-  margin-top: 0px;
-  margin-bottom: 32px;
-}
-
 blockquote {
   font-family: $serif-font;
   font-weight: 400;
@@ -127,32 +127,11 @@ blockquote {
   margin: 0;
 }
 
-ul ul, ol ol, ul ol, ol ul {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-hr {
-  border: 1px solid;
-  margin: -1px 0;
-}
-
-b, strong, em, small, code {
-  line-height: 1;
-}
-
-sup {
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
-  top: -0.5em;
-}
-
-sub {
-  bottom: -0.25em;
-}
-
 a {
   color: $blue;
   text-decoration: none;
+}
+
+.post-link {
+  color: $dark-gray;
 }
