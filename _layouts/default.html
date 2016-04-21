@@ -7,11 +7,17 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
+    <main class="page-content">
+
+      {% include nav-module.html %}
+
+      <section class="wrapper">
+
         {{ content }}
-      </div>
-    </div>
+
+      </section>
+
+    </main>
 
     {% include footer.html %}
 

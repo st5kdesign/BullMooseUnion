@@ -1,1 +1,26 @@
-/* LAYOUT STRUCTURE */
+/* LAYOUT STRUCTURE ------------------------   FLEXBOX  */
+html {height: 100%;}
+
+.site {
+ height: 100%;
+ display: flex;
+ flex-direction: column;
+}
+
+/* Header Index page */
+
+.site-header {
+ height: 100px;
+ width: 100%;
+ border-top: solid 10px $dark-gray;
+}
+
+.page-content {
+  width: 1600px;
+}
+
+.left-panel {
+  width: 120px;
+  min-height: 90%;
+  background-color: $light-gray;
+}
