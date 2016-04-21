@@ -9,198 +9,141 @@ dl, dd, ol, ul, figure {
 }
 
 
+/* Color variables */
+
+$sans-serif-font: "Lato", Helvetica, Arial, sans-serif;
+$serif-font: "Gentium Basic", Georgia, serif;
+$base-font-size:   18px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$dark-gray:   rgb(81,81,81);
+$light-gray:   rgb(237,237,237);
+$blue:        rgb(0,180,255);
+$white:       rgb(0,0,0);
+
+$grey-color-light: lighten($dark-gray, 40%);
+$grey-color-dark:  darken($dark-gray, 25%);
 
 /**
- * Basic styling
- */
-body {
-    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $sans-serif-font-family;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-feature-settings: "kern" 1;
-    -moz-font-feature-settings: "kern" 1;
-    -o-font-feature-settings: "kern" 1;
-    font-feature-settings: "kern" 1;
-    font-kerning: normal;
+* Typography
+*/
+
+p {
+  font-family: $sans-serif-font;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 32px;
+   color: rgb(81,81,81);
 }
 
-
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+h1 {
+  font-family: $serif-font;
+  font-weight: 600;
+  font-size: 85px;
+  line-height: 96px;
+  margin-top: 32px;
+  margin-bottom: 0px;
+     color: rgb(81,81,81);
 }
 
-
-
-/**
- * Images
- */
-img {
-    max-width: 100%;
-    vertical-align: middle;
+h2 {
+  font-family: $serif-font;
+  font-weight: 600;
+  font-size: 53px;
+  line-height: 64px;
+  margin-top: 64px;
+  margin-bottom: 32px;
+     color: rgb(81,81,81);
 }
 
-
-
-/**
- * Figures
- */
-figure > img {
-    display: block;
+.post-headline {
+  margin-bottom: 0px;
 }
 
-figcaption {
-    font-size: $small-font-size;
+h3 {
+  font-family: $serif-font;
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 48px;
+  margin-top: 64px;
+  margin-bottom: 32px;
+     color: rgb(81,81,81);
 }
 
-
-
-/**
- * Lists
- */
-ul, ol {
-    margin-left: $spacing-unit;
+.subtitle {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 30px;
+  margin-top: 5px;
+  margin-bottom: 32px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: rgb(0,180,255);
 }
 
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+h4 {
+  font-family: $serif-font;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 32px;
+  margin-bottom: 0px;
+     color: rgb(81,81,81);
 }
 
-
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+h5 {
+  font-family:$serif-font;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 32px;
+  margin-bottom: 0px;
+     color: rgb(81,81,81);
 }
 
-
-
-/**
- * Links
- */
-a {
-    color: $brand-color;
-    text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
+p, ul, ol, pre, table {
+  margin-top: 0px;
+  margin-bottom: 32px;
 }
 
-
-
-/**
- * Blockquotes
- */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
-
-    > :last-child {
-        margin-bottom: 0;
-    }
+  font-family: $serif-font;
+  font-weight: 400;
+  font-size: 20px;
+ line-height: 32px;
+    margin: 0;
 }
 
-
-
-/**
- * Code formatting
- */
-pre,
-code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
-code {
-    padding: 1px 5px;
+hr {
+  border: 1px solid;
+  margin: -1px 0;
 }
 
-pre {
-    padding: 8px 12px;
-    overflow-x: auto;
-
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
+b, strong, em, small, code {
+  line-height: 1;
 }
 
-
-
-/**
- * Wrapper
- */
-.wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
+sup {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.5em;
 }
 
-
-
-/**
- * Clearfix
- */
-%clearfix {
-
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
+sub {
+  bottom: -0.25em;
 }
 
-
-
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
-    }
+a {
+  color: $blue;
 }
