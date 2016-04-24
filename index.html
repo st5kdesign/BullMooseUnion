@@ -4,6 +4,29 @@ layout: default
 
   {% include nav-module.html %}
 
+  <!--Featured Post-->
+<h5>featured</h5>
+  {% assign count = 0 %}
+  {% for post in site.posts reversed %}
+  {% if post.featured == true and count < 1 %}
+    <div class="post">
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+
+      <h4 class="post-subtitle">{{ page.subtitle }}</h4>
+
+      <p>
+        {{ post.content | strip_html | strip_newlines | truncate: 200 }}
+      </p>
+
+    </div>
+  {% assign count = count | plus: 1 %}
+  {% endif %}
+  {% endfor %}
+
+  <!--latest Posts-->
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
