@@ -5,37 +5,39 @@ layout: default
   {% include nav-module.html %}
 
   <!--Featured Post-->
-<h5>featured</h5>
-  {% assign count = 0 %}
-  {% for post in site.posts reversed %}
-  {% if post.featured == true and count < 1 %}
-    <div class="post">
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
 
-      <h4 class="post-subtitle">{{ page.subtitle }}</h4>
+<div id="home_content">
+  <section id="featured-article">
+    <h6>featured</h6>
+      {% assign count = 0 %}
+      {% for post in site.posts reversed %}
+      {% if post.featured == true and count < 1 %}
+        <div class="post">
 
-      <p>
-        {{ post.content | strip_html | strip_newlines | truncate: 200 }}
-      </p>
+          {% include post.html %}
 
-    </div>
-  {% assign count = count | plus: 1 %}
-  {% endif %}
-  {% endfor %}
+        </div>
+      {% assign count = count | plus: 1 %}
+      {% endif %}
+      {% endfor %}
+  </section>
 
-  <!--latest Posts-->
+  <!--latest Posts--->
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+  <section id="latest-articles">
+    <h6>latest articles</h6>
+      <article class="list-module">
+        <ul class="post-list">
+          {% for post in site.posts reversed | limit:4 %}
+            <li>
 
-        <h4 class="post-subtitle">{{ page.subtitle }}</h4>
+              {% include post-list.html %}
 
-      </li>
-    {% endfor %}
-  </ul>
+            </li>
+          {% endfor %}
+        </ul>
+      </article>
+  </section>
+</div>
+
+<!--aside-quotes/social widget-->

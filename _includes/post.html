@@ -1,0 +1,11 @@
+<h2 id="featured-title">
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+</h2>
+
+<h4 class="post-subtitle">{{ post.subtitle }}</h4>
+
+<p>
+  {{ post.content | strip_html | strip_newlines | truncate: 400 }}
+</p>
+
+<p class="read-more"><a href="{{ post.url | prepend: site.baseurl }}">continue reading ></a></p>

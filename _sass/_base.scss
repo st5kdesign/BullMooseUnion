@@ -73,6 +73,10 @@ h2 {
   color:$dark-gray;
 }
 
+#featured-title{
+  margin-top: 30px;
+}
+
 .post-headline {
   margin-bottom: 0px;
 }
@@ -85,6 +89,12 @@ h3 {
   margin-top: 64px;
   margin-bottom: 32px;
   color:$dark-gray;
+}
+
+
+#post-list-title {
+  margin-top: 10px;
+  margin-bottom:5px;
 }
 
 h4 {
@@ -101,7 +111,6 @@ h4 {
   font-family: $sans-serif-font;
   font-weight: 300;
   font-size: 30px;
-  margin-top: 5px;
   margin-bottom: 32px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -115,6 +124,19 @@ h5 {
   line-height: 32px;
   margin-top: 32px;
   margin-bottom: 0px;
+  color:$dark-gray;
+}
+
+h5.post-subtitle {
+  margin-top: 0px;
+}
+
+h6 {
+  font-family:$sans-serif-font;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 400;
+  font-size: 14px;
   color:$dark-gray;
 }
 

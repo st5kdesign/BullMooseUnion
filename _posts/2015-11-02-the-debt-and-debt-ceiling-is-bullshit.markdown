@@ -4,7 +4,7 @@ title: "The Debt and Debt Ceiling is Bullshit"
 subtitle: "The Biggest CON Perpetrated on Us All"
 date: 2015-11-02
 author: Jason
-categories: politics, economics, propoganda
+categories: politics, economics, propaganda
 featured: true
 ---
 
