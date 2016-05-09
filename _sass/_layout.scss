@@ -20,13 +20,14 @@ html {height: 100%;}
 .page-content {
   width: 1600px;
   display: flex;
+  justify-content:space-between;
 }
 
 /* nav module */
 
 .nav-module {
   width: 120px;
-  height: 700px;
+  height: 800px;
   background-color: $light-gray;
   display: flex;
   flex-direction: column;
@@ -35,7 +36,7 @@ html {height: 100%;}
 
 .logo {
   width: 100%;
-  height: 100%;
+  height: 100px;
   margin-top: 15px;
   display: flex;
   justify-content: center;
@@ -45,7 +46,6 @@ html {height: 100%;}
 /* Home Page */
 #home_content {
   width: 876px;
-  margin-left: 84px;
 }
 
 #featured-article {
@@ -55,32 +55,36 @@ html {height: 100%;}
 #latest-articles {
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
 }
 
-.post-list {
-  width: 420px;
+#latest-article-title{
+  width: 100%;
   height: 100%;
 }
 
-.read-more {
-  font-family: $serif-font;
-  font-size: 16px;
-  font-weight:700;
-  font-style: italic;
-  text-transform: uppercase;
-  margin-top: 15px;
+#list-module {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
 }
 
-p > a {
-  color: $dark-gray;
+.post-list {
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
 }
 
-#post-list-title {
-  font-size: 30px;
-  margin-bottom: 5px;
+.latest-articles-listings {
+  width: 430px;
+  height: 175px;
 }
 
-#post-list-subtitle {
-  font-size: 18px;
-  margin-top: 5px;
+/* quote section */
+
+#quote-widget {
+width: 420px;
+height: 800px;
+background-color: $light-gray;
 }

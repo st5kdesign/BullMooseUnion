@@ -91,10 +91,11 @@ h3 {
   color:$dark-gray;
 }
 
-
 #post-list-title {
+  font-size: 30px;
   margin-top: 10px;
   margin-bottom:5px;
+  line-height: 40px;
 }
 
 h4 {
@@ -131,6 +132,11 @@ h5.post-subtitle {
   margin-top: 0px;
 }
 
+#post-list-subtitle {
+  font-size: 18px;
+  margin-top: 5px;
+}
+
 h6 {
   font-family:$sans-serif-font;
   text-transform: uppercase;
@@ -156,4 +162,23 @@ a {
 
 .post-link {
   color: $dark-gray;
+}
+
+.read-more {
+  font-family: $serif-font;
+  font-size: 16px;
+  font-weight:700;
+  font-style: italic;
+  text-transform: uppercase;
+  margin-top: 15px;
+}
+
+p > a {
+  color: $dark-gray;
+}
+
+.quote-text {
+  font-family: $serif-font;
+  font-size: 24px;
+  line-height: 36px;
 }

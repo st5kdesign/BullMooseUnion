@@ -25,11 +25,11 @@ layout: default
   <!--latest Posts--->
 
   <section id="latest-articles">
-    <h6>latest articles</h6>
-      <article class="list-module">
+    <h6 id="latest-article-title">latest articles</h6>
+      <article id="list-module">
         <ul class="post-list">
           {% for post in site.posts reversed | limit:4 %}
-            <li>
+            <li class="latest-articles-listings">
 
               {% include post-list.html %}
 
@@ -41,3 +41,7 @@ layout: default
 </div>
 
 <!--aside-quotes/social widget-->
+
+<section id="quote-widget">
+  <p class="quote-text">“In every age it has been the tyrant, the oppressor and the exploiter who has wrapped himself in the cloak of patriotism, or religion, or both to deceive and overawe the People.”</p>
+</section>

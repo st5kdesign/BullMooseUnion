@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is it ‘Freedom’ if one groups freedom is at the expense of another?"
+title: "One Groups Freedom at the Expense of Another?"
 subtitle: "Religious Freedom or Privilege in Indiana"
 date: 2015-04-13
 author: Jason
